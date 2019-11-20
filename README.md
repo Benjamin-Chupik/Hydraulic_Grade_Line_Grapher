@@ -11,3 +11,6 @@ The code creates a hydraulic grade line sketch for each path with a new name in 
 
 The output of the code is  a graph for each path that is displayed in a figure as well as if line ~(68) is uncommented, a .eps for each figure named (*PathName*_HydraulicGradeLine). 
 Each figure has the hydraulic grade line as well as every node circled. The code to change this or the graphs looks is around line 59.
+
+
+The csv is an example that sould make the code run as is. Change the file name on line 19.
